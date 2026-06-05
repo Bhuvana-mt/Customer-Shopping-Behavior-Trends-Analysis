@@ -135,28 +135,6 @@ Built an interactive multi-page dashboard featuring:
 
 ---
 
-## 🚀 How to Run This Project
-
-**Python (EDA & Cleaning):**
-```bash
-pip install pandas matplotlib seaborn jupyter
-jupyter notebook python/eda_and_cleaning.ipynb
-```
-
-**SQL (PostgreSQL):**
-```sql
--- 1. Create a table and import customer_shopping_behavior.csv into PostgreSQL
--- 2. Open pgAdmin or psql
--- 3. Run queries from sql/business_analysis_queries.sql
-```
-
-**Power BI Dashboard:**
-- Open `powerbi/customer_behavior_dashboard.pbix` in Power BI Desktop
-- Update the data source path to point to your local CSV file
-- Click "Refresh" to load the data
-
----
-
 ## 📬 Connect with Me
 
 **[Bhuvana]**  
