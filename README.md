@@ -50,8 +50,7 @@ Analyze a retail consumer behavior dataset of 3,900+ transactions to uncover:
 
 ## 📁 Repository Structure
 
----
-
+```
 customer-shopping-behavior-analysis/
 │
 ├── data/
@@ -70,8 +69,7 @@ customer-shopping-behavior-analysis/
 │   └── project_report.pdf
 │
 └── README.md
-
----
+```
 
 ## 🔄 Project Workflow
 
